@@ -1,5 +1,5 @@
 # Yelp_data Runbook
- To view data_clean_pipeline.py in a more readable way: https://drive.google.com/file/d/1x1ZPbYz9rdSAjVY73tCEuGa4I-fplUDZ/view?usp=sharing
+ To view data_clean_pipeline.py in a more readable way, please download: https://drive.google.com/file/d/1x1ZPbYz9rdSAjVY73tCEuGa4I-fplUDZ/view?usp=sharing
 
 # 
 #### 1. Project Goal:
